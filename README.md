@@ -1,5 +1,3 @@
-# bielnzar
-
 ![Header](https://github.com/bielnzar/bielnzar/blob/main/image/header.png)
 
 <h1 align="left">Hello World👋 Piye Kabare?</h1>
@@ -93,11 +91,10 @@
   <a href="https://www.linkedin.com/in/nabiel-nizar-anwari/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.instagram.com/bielnzar_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="wa.me/6285781821926" target="_blank">
+  <a href="https://wa.me/6285781821926" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="mailto:biel.nizar79@gmail.com" target="_blank">
